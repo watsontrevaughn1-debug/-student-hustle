@@ -1,0 +1,9 @@
+{
+  "name": "Student Hustle",
+  "short_name": "Hustle",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f4f6",
+  "theme_color": "#111827",
+  "description": "A simple student money, goals and daily-task app."
+}
